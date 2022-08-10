@@ -1,21 +1,14 @@
 {
- "ID" : 1,
- "UserId" : 1,
- "date" : "08-08-2022",
- "snote" : "short note",
- "lnote" : "this is long note. it is longer than short note as you can see"
-},
-{
- "ID" : 2,
- "UserId" : 1,
- "date" : "08-12-2022",
- "snote" : "second short note",
- "lnote" : "this is second long note. it is longer than short note as you can see. also longer than first long note"
-},
-{
- "ID" : 3,
- "UserId" : 2,
- "date" : "08-09-2022",
- "snote" : "Hakkının hakkı",
- "lnote" : "Hakkı haklının hakkını yemiş. Haklı, Hakkı'dan hakkını istemiş. Hakkı, haklıya hakkını vermeyince haklı da Hakkı'nın hakkından gelmiş"
+  "page": {
+    "ID": 1,
+    "UserId": 1,
+    "date": "08-08-2022",
+    "snote": "short note",
+    "lnote": "this is long note. it is longer than short note as you can see"
+  },
+  "user": {
+    "ID": 1,
+    "username": "e534e71",
+    "password": "e534e71"
+  }
 }
