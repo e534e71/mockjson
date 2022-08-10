@@ -6,6 +6,13 @@
     "snote": "short note",
     "lnote": "this is long note. it is longer than short note as you can see"
   },
+  "page": {
+    "ID": 2,
+    "UserId": 1,
+    "date": "08-08-2022",
+    "snote": "short note",
+    "lnote": "this is long note. it is longer than short note as you can see"
+  },
   "user": {
     "ID": 1,
     "username": "e534e71",
