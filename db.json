@@ -1,16 +1,18 @@
-"page" : {
+{
  "ID" : 1,
  "UserId" : 1,
  "date" : "08-08-2022",
  "snote" : "short note",
  "lnote" : "this is long note. it is longer than short note as you can see"
-}, "page" : {
+},
+{
  "ID" : 2,
  "UserId" : 1,
  "date" : "08-12-2022",
  "snote" : "second short note",
  "lnote" : "this is second long note. it is longer than short note as you can see. also longer than first long note"
-}, "page" : {
+},
+{
  "ID" : 3,
  "UserId" : 2,
  "date" : "08-09-2022",
