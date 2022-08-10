@@ -1,20 +1,3 @@
-["user" : {
- "Id" : 1,
- "username" : "e534e71",
- "password" : "e5Pesword"
-},
- "user" : {
- "Id": 2,
- "username" : "Hakkı",
- "password" : "karabulut"
-},
- "user" :  {
- "Id" : 3,
- "username" : "newuser",
- "password" : "newboy123"
-}]
-
-[
 "page" : {
  "ID" : 1,
  "UserId" : 1,
@@ -34,4 +17,3 @@
  "snote" : "Hakkının hakkı",
  "lnote" : "Hakkı haklının hakkını yemiş. Haklı, Hakkı'dan hakkını istemiş. Hakkı, haklıya hakkını vermeyince haklı da Hakkı'nın hakkından gelmiş"
 }
-]
