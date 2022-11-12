@@ -2,6 +2,6 @@
   PlaceId = 1,
   PlaceName = "Somewhere",
   Latitude = 1,
-  Longitude = 1,
+  Longitude = 1
 };
 
