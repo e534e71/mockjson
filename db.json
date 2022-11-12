@@ -1,32 +1,7 @@
-{
-  "page": [
-    {
-      "ID": 1,
-      "UserId": 1,
-      "date": "08-08-2022",
-      "snote": "short note",
-      "lnote": "this is long note. it is longer than short note as you can see"
-    },
-    {
-      "ID": 2,
-      "UserId": 1,
-      "date": "08-08-2022",
-      "snote": "short note",
-      "lnote": "this is long note. it is longer than short note as you can see"
-    },
-    {
-      "ID": 3,
-      "UserId": 1,
-      "date": "08-08-2022",
-      "snote": "short note",
-      "lnote": "this is long note. it is longer than short note as you can see"
-    }
-  ],
-  "user": [
-    {
-      "Id": 1,
-      "username": "e534e71",
-      "passwort": "e534e71"
-    }
-  ]
-}
+{ 
+  PlaceId = 1,
+  PlaceName = "Somewhere",
+  Latitude = 1,
+  Longitude = 1,
+};
+
