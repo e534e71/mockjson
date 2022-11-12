@@ -1,7 +1,18 @@
-{ 
-  PlaceId = 1,
-  PlaceName = "Somewhere",
-  Latitude = 1,
-  Longitude = 1
-};
-
+  {
+   "PlaceId":1,
+   "PlaceName":"abcdef",
+   "Longitude":1.2,
+   "Latitude":1.3
+},
+{
+   "PlaceId":2,
+   "PlaceName":"abcdef",
+   "Longitude":1.2,
+   "Latitude":1.3
+},
+{
+   "PlaceId":3,
+   "PlaceName":"abcdef",
+   "Longitude":1.2,
+   "Latitude":1.3
+}
