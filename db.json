@@ -1,4 +1,4 @@
-[{
+{ "Locations" : [{
    "PlaceId":1,
    "PlaceName":"abcdef",
    "Longitude":1.2,
@@ -32,5 +32,4 @@
    "PlaceName":"abcdef",
    "Longitude":1.2,
    "Latitude":1.3
- }
-]
+ }]}
