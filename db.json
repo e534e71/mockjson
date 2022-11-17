@@ -1,32 +1,32 @@
 { "Locations" : [{
    "PlaceId":1,
    "PlaceName":"Enformatik",
-   "Longitude":37.060037,
-   "Latitude":35.355380
+   "Longitude":35.355380,
+   "Latitude":37.060037
 },
 {
    "PlaceId":1,
    "PlaceName":"Kütüphane",
-   "Longitude":37.060258,
-   "Latitude":35.355011
+   "Longitude":35.355011,
+   "Latitude":37.060258
 },
 {
    "PlaceId":1,
    "PlaceName":"R1 Derslikleri",
-   "Longitude":37.061016,
-   "Latitude":35.354716
+   "Longitude":35.354716,
+   "Latitude":37.061016
 },
 {
    "PlaceId":1,
    "PlaceName":"R2 Derslikleri",
-   "Longitude":37.061032,
-   "Latitude":35.355417
+   "Longitude":35.355417,
+   "Latitude":37.061032
 },
 {
     "PlaceId":1,
    "PlaceName":"Yazılım 2",
-   "Longitude":37.060947,
-   "Latitude":35.350854
+   "Longitude":35.350854,
+   "Latitude":37.060947
  },
  {
    "PlaceId":1,
