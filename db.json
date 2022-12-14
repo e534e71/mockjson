@@ -1,133 +1,176 @@
-{ "Locations" : [{
-   "PlaceId":1,
-   "PlaceName":"Enformatik",
-   "Longitude":35.355380,
-   "Latitude":37.060037
-},
 {
-   "PlaceId":1,
-   "PlaceName":"Kütüphane",
-   "Longitude":35.355011,
-   "Latitude":37.060258
-},
-{
-   "PlaceId":1,
-   "PlaceName":"R1 Derslikleri",
-   "Longitude":35.354716,
-   "Latitude":37.061016
-},
-{
-   "PlaceId":1,
-   "PlaceName":"R2 Derslikleri",
-   "Longitude":35.355417,
-   "Latitude":37.061032
-},
-{
-    "PlaceId":1,
-   "PlaceName":"Yazılım 2",
-   "Longitude":35.350854,
-   "Latitude":37.060947
- },
- {
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- },{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- },
- {
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- },{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- },
- {
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- },
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-   "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
-},
-{
-    "PlaceId":1,
-   "PlaceName":"abcdef",
-   "Longitude":1.2,
-   "Latitude":1.3
- }]}
+  "Locations": [
+    {
+      "PlaceId": 1,
+      "PlaceName": "Enformatik",
+      "Longitude": 35.35538,
+      "Latitude": 37.060037
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "Kütüphane",
+      "Longitude": 35.355011,
+      "Latitude": 37.060258
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "R1 Derslikleri",
+      "Longitude": 35.354716,
+      "Latitude": 37.061016
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "R2 Derslikleri",
+      "Longitude": 35.355417,
+      "Latitude": 37.061032
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "Yazılım 2",
+      "Longitude": 35.350854,
+      "Latitude": 37.060947
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    },
+    {
+      "PlaceId": 1,
+      "PlaceName": "abcdef",
+      "Longitude": 1.2,
+      "Latitude": 1.3
+    }
+  ],
+  "today": [
+    {
+      "date": "14.12.20",
+      "yemek1ad": "TerbiyeliKöfte",
+      "yemek1kalori": "295",
+      "yemek1görsel": "http//yemekhane.cu.edu.tr/yemekler/terbiyelikofte.png",
+      "yemek2ad": "ŞehriyeliBulgurPilavı",
+      "yemek2kalori": "352",
+      "yemek2görsel": "http//yemekhane.cu.edu.tr/yemekler/sehriyelibulgurpilavi.png",
+      "yemek3ad": "Yoğurt",
+      "yemek3kalori": "118",
+      "yemek3görsel": "http//yemekhane.cu.edu.tr/yemekler/yogurt.png",
+      "yemek4ad": "Meyve(Armut)",
+      "yemek4kalori": "128",
+      "yemek4görsel": "http//yemekhane.cu.edu.tr/yemekler/meyvearmut.png"
+    }
+  ],
+  "tomorrow": [
+    {
+      "date": "15.12.2022",
+      "yemek1ad": "SosluButSpecial(320gr)",
+      "yemek1kalori": "620",
+      "yemek1görsel": "http//yemekhane.cu.edu.tr/yemekler/soslufirintavuk.png",
+      "yemek2ad": "ŞehriyeliPirinçPilavı",
+      "yemek2kalori": "367",
+      "yemek2görsel": "http//yemekhane.cu.edu.tr/yemekler/sehriyelipilav.png",
+      "yemek3ad": "Cacık",
+      "yemek3kalori": "97",
+      "yemek3görsel": "http//yemekhane.cu.edu.tr/yemekler/cacik.png",
+      "yemek4ad": "Meyve(Elma)",
+      "yemek4kalori": "142",
+      "yemek4görsel": "http//yemekhane.cu.edu.tr/yemekler/meyveelma1.png"
+    }
+  ]
+}
