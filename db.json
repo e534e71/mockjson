@@ -144,16 +144,16 @@
       "date": "14.12.20",
       "yemek1ad": "TerbiyeliKöfte",
       "yemek1kalori": "295",
-      "yemek1görsel": "http//yemekhane.cu.edu.tr/yemekler/terbiyelikofte.png",
+      "yemek1görsel": "http://yemekhane.cu.edu.tr/yemekler/terbiyelikofte.png",
       "yemek2ad": "ŞehriyeliBulgurPilavı",
       "yemek2kalori": "352",
-      "yemek2görsel": "http//yemekhane.cu.edu.tr/yemekler/sehriyelibulgurpilavi.png",
+      "yemek2görsel": "http://yemekhane.cu.edu.tr/yemekler/sehriyelibulgurpilavi.png",
       "yemek3ad": "Yoğurt",
       "yemek3kalori": "118",
-      "yemek3görsel": "http//yemekhane.cu.edu.tr/yemekler/yogurt.png",
+      "yemek3görsel": "http://yemekhane.cu.edu.tr/yemekler/yogurt.png",
       "yemek4ad": "Meyve(Armut)",
       "yemek4kalori": "128",
-      "yemek4görsel": "http//yemekhane.cu.edu.tr/yemekler/meyvearmut.png"
+      "yemek4görsel": "http://yemekhane.cu.edu.tr/yemekler/meyvearmut.png"
     }
   ],
   "tomorrow": [
@@ -161,16 +161,16 @@
       "date": "15.12.2022",
       "yemek1ad": "SosluButSpecial(320gr)",
       "yemek1kalori": "620",
-      "yemek1görsel": "http//yemekhane.cu.edu.tr/yemekler/soslufirintavuk.png",
+      "yemek1görsel": "http://yemekhane.cu.edu.tr/yemekler/soslufirintavuk.png",
       "yemek2ad": "ŞehriyeliPirinçPilavı",
       "yemek2kalori": "367",
-      "yemek2görsel": "http//yemekhane.cu.edu.tr/yemekler/sehriyelipilav.png",
+      "yemek2görsel": "http://yemekhane.cu.edu.tr/yemekler/sehriyelipilav.png",
       "yemek3ad": "Cacık",
       "yemek3kalori": "97",
-      "yemek3görsel": "http//yemekhane.cu.edu.tr/yemekler/cacik.png",
+      "yemek3görsel": "http://yemekhane.cu.edu.tr/yemekler/cacik.png",
       "yemek4ad": "Meyve(Elma)",
       "yemek4kalori": "142",
-      "yemek4görsel": "http//yemekhane.cu.edu.tr/yemekler/meyveelma1.png"
+      "yemek4görsel": "http://yemekhane.cu.edu.tr/yemekler/meyveelma1.png"
     }
   ]
 }
